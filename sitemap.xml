@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://niubiest-cohen.github.io/categories/</loc>
-  </url><url>
-    <loc>https://niubiest-cohen.github.io/docs/</loc>
-  </url><url>
-    <loc>https://niubiest-cohen.github.io/tags/</loc>
-  </url><url>
-    <loc>https://niubiest-cohen.github.io/</loc>
-  </url><url>
-    <loc>https://niubiest-cohen.github.io/docs/index-copy/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://niubiest-cohen.github.io/zh/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://niubiest-cohen.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2024-01-08T14:22:14+08:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>

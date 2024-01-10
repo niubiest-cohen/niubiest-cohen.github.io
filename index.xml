@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>介绍 on My New Hugo Site</title>
+    <title>介绍 on Hugo Book</title>
     <link>https://niubiest-cohen.github.io/</link>
-    <description>Recent content in 介绍 on My New Hugo Site</description>
+    <description>Recent content in 介绍 on Hugo Book</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <language>en</language>
     <atom:link href="https://niubiest-cohen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第一页</title>
