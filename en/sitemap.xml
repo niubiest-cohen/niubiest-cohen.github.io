@@ -2,8 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://niubiest-cohen.github.io/docs/Nginx-%E9%85%8D%E7%BD%AE/</loc>
-  </url><url>
     <loc>https://niubiest-cohen.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -16,13 +14,18 @@
                 href="https://niubiest-cohen.github.io/categories/"
                 />
   </url><url>
-    <loc>https://niubiest-cohen.github.io/docs/</loc>
-  </url><url>
-    <loc>https://niubiest-cohen.github.io/docs/%E5%AE%89%E8%A3%85-OMV/</loc>
-  </url><url>
-    <loc>https://niubiest-cohen.github.io/posts/%E5%AE%89%E8%A3%85-OMV/</loc>
-  </url><url>
-    <loc>https://niubiest-cohen.github.io/posts/</loc>
+    <loc>https://niubiest-cohen.github.io/</loc>
+    <lastmod>2024-10-11T11:47:13+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://niubiest-cohen.github.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://niubiest-cohen.github.io/"
+                />
   </url><url>
     <loc>https://niubiest-cohen.github.io/tags/</loc>
     <xhtml:link
@@ -34,19 +37,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://niubiest-cohen.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://niubiest-cohen.github.io/</loc>
-    <lastmod>2024-01-08T14:05:53+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://niubiest-cohen.github.io/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://niubiest-cohen.github.io/"
                 />
   </url>
 </urlset>
