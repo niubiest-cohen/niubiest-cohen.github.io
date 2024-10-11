@@ -2,40 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://niubiest-cohen.github.io/zh/docs/Nginx-%E9%85%8D%E7%BD%AE/</loc>
+  </url><url>
     <loc>https://niubiest-cohen.github.io/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://niubiest-cohen.github.io/categories/"
+                hreflang="en-US"
+                href="https://niubiest-cohen.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
+                hreflang="zh-cn"
                 href="https://niubiest-cohen.github.io/zh/categories/"
                 />
   </url><url>
-    <loc>https://niubiest-cohen.github.io/zh/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://niubiest-cohen.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://niubiest-cohen.github.io/zh/"
-                />
+    <loc>https://niubiest-cohen.github.io/zh/docs/</loc>
+  </url><url>
+    <loc>https://niubiest-cohen.github.io/zh/docs/%E5%AE%89%E8%A3%85-OMV/</loc>
+  </url><url>
+    <loc>https://niubiest-cohen.github.io/zh/posts/%E5%AE%89%E8%A3%85-OMV/</loc>
+  </url><url>
+    <loc>https://niubiest-cohen.github.io/zh/posts/</loc>
   </url><url>
     <loc>https://niubiest-cohen.github.io/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://niubiest-cohen.github.io/tags/"
+                hreflang="en-US"
+                href="https://niubiest-cohen.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
+                hreflang="zh-cn"
                 href="https://niubiest-cohen.github.io/zh/tags/"
+                />
+  </url><url>
+    <loc>https://niubiest-cohen.github.io/zh/</loc>
+    <lastmod>2024-10-11T11:54:31+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://niubiest-cohen.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://niubiest-cohen.github.io/zh/"
                 />
   </url>
 </urlset>
