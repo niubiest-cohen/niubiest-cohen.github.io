@@ -4,15 +4,22 @@
     <title>介绍 on Hugo Book</title>
     <link>https://niubiest-cohen.github.io/</link>
     <description>Recent content in 介绍 on Hugo Book</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="https://niubiest-cohen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>第一页</title>
-      <link>https://niubiest-cohen.github.io/docs/index-copy/</link>
+      <title></title>
+      <link>https://niubiest-cohen.github.io/docs/Nginx-%E9%85%8D%E7%BD%AE/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://niubiest-cohen.github.io/docs/index-copy/</guid>
-      <description>中文测试 # Astris ipse furtiva # Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut olivae sensit arma sorori deducit, inesset crudus, ego vetuere aliis, modo arsit? Utinam rapta fiducia valuere litora adicit cursu, ad facies&#xA;Suis quot vota # Ea furtique risere fratres edidit terrae magis. Colla tam mihi tenebat: miseram excita suadent es pecudes iam. Concilio quam velatus posset ait quod nunc! Fragosis suae dextra geruntur functus vulgata.</description>
+      <guid>https://niubiest-cohen.github.io/docs/Nginx-%E9%85%8D%E7%BD%AE/</guid>
+      <description>&lt;h1 id=&#34;http-转到-https&#34;&gt;&#xA;  http 转到 https&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#http-%e8%bd%ac%e5%88%b0-https&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>OMV 系统的安装</title>
+      <link>https://niubiest-cohen.github.io/docs/%E5%AE%89%E8%A3%85-OMV/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://niubiest-cohen.github.io/docs/%E5%AE%89%E8%A3%85-OMV/</guid>
+      <description>&lt;h1 id=&#34;中文测试&#34;&gt;&#xA;  中文测试&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e4%b8%ad%e6%96%87%e6%b5%8b%e8%af%95&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;div class=&#34;book-columns flex flex-wrap&#34;&gt;&#xA;&#xA;  &lt;div class=&#34;flex-even markdown-inner&#34;&gt;&#xA;    &lt;h2 id=&#34;astris-ipse-furtiva&#34;&gt;&#xA;  Astris ipse furtiva&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#astris-ipse-furtiva&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut&#xA;olivae sensit &lt;strong&gt;arma sorori&lt;/strong&gt; deducit, inesset &lt;strong&gt;crudus&lt;/strong&gt;, ego vetuere aliis,&#xA;modo arsit? Utinam rapta fiducia valuere litora &lt;em&gt;adicit cursu&lt;/em&gt;, ad facies&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;div class=&#34;flex-even markdown-inner&#34;&gt;&#xA;    &lt;h2 id=&#34;suis-quot-vota&#34;&gt;&#xA;  Suis quot vota&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#suis-quot-vota&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Ea &lt;em&gt;furtique&lt;/em&gt; risere fratres edidit terrae magis. Colla tam mihi tenebat:&#xA;miseram excita suadent es pecudes iam. Concilio &lt;em&gt;quam&lt;/em&gt; velatus posset ait quod&#xA;nunc! Fragosis suae dextra geruntur functus vulgata.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
